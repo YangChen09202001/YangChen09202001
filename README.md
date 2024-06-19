@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YangChen09202001
+- 👋 Hi, I’m Yang Chen
 - 👀 I’m interested in Softawre Engineering and Data Analytics.
 - 🌱 I’m currently learning Computer Science 
 - 📫 How to reach me: Yangchen09202001@gmail.com
