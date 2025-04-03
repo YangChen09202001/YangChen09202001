@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yang Chen
 - 👀 I’m interested in Softawre Engineering and Data Analytics.
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I have completed my Computer Science degree
 - 📫 How to reach me: Yangchen09202001@gmail.com
 
 
